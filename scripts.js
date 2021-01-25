@@ -25,6 +25,7 @@ function fillGrid(size) {
   }
 }
 
+
 function manualColor() {
     color = prompt("which color?");
     clearGrid();
